@@ -1,1 +1,1 @@
-bucket_name = "your-unique-bucket-name-123456"
+bucket_name = "mydemo_static_website-terraform"
